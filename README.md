@@ -19,7 +19,6 @@ This repository contains an exploratory data analysis (EDA) of a sales dataset f
 - **Jupyter Notebook**
 - Key libraries:
   - `pandas` — data manipulation
-  - `numpy` — numerical operations
 
 ---
 

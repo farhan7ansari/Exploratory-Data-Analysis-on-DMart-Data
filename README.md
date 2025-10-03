@@ -6,10 +6,6 @@ This repository contains an exploratory data analysis (EDA) of a sales dataset f
 
 ---
 
-## 🗂️ Repository Structure
-
-
-
 
 - **DMart.xlsx**: Original/raw data as provided.
 - **Cleaned Data.xlsx**: The processed, cleaned version used for analysis.
@@ -33,4 +29,23 @@ This repository contains an exploratory data analysis (EDA) of a sales dataset f
 2. **Data Cleaning & Preprocessing**:
    - Handle missing values  
    - Standardize data types (dates, numeric, categorical)  
-   - Remove duplicates or erroneous e
+   - Remove duplicates or erroneous entries  
+   - Feature engineering (e.g., extract month, weekday)  
+   - Output: `Cleaned Data.xlsx`
+3. **Exploratory Data Analysis (EDA)**:
+   - Univariate analysis (distributions of sales, quantities, etc.)  
+   - Bivariate / multivariate relationships  
+   - Time series trends (e.g., sales over time, seasonal patterns)  
+   - Category-wise analysis (by product category, store, etc.)  
+   - Correlation and statistical insights  
+4. **Visualization & Insights**: Charts (bar plots, line plots, scatterplots, heatmaps, etc.) and key observations.  
+5. **Conclusion & Recommendations**: Summaries of findings and possible business implications.
+
+---
+
+## 🛠 How to Use / Reproduce
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/farhan7ansari/Exploratory-Data-Analysis-on-DMart-Data.git
+   cd Exploratory-Data-Analysis-on-DMart-Data
